@@ -1,0 +1,3 @@
+﻿  ai.cpp
+C:\Users\dell\source\repos\snack\snack\ai.cpp(194,25): warning C4018: “<”: 有符号/无符号不匹配
+  snack.vcxproj -> C:\Users\dell\source\repos\snack\Debug\snack.exe
